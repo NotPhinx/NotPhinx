@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NotPhinx
-- 👀 I’m interested in Game Development and Graphics Design
-- 🌱 I’m currently learning how to make a Game and Getting a Computer Science Degree
-- 💞️ I’m looking to collaborate on Games or Discord Bots or Graphic Projects
+- 👀 I’m interested in Game Development and Frontend Development but open to anything!
+- 🌱 I’m currently looking for internships and Getting a Computer Science Degree
+- 💞️ I’m looking to collaborate on Games, Discord Bots, or any interesting coding projects
 - 📫 How to reach me rossebinkley@gmail.com
 
 <!---
